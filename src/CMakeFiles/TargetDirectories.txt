@@ -1,0 +1,10 @@
+/workspaces/lab6-hamzaSajjad123/src/CMakeFiles/my_program.dir
+/workspaces/lab6-hamzaSajjad123/src/CMakeFiles/test.dir
+/workspaces/lab6-hamzaSajjad123/src/CMakeFiles/edit_cache.dir
+/workspaces/lab6-hamzaSajjad123/src/CMakeFiles/rebuild_cache.dir
+/workspaces/lab6-hamzaSajjad123/src/tests/CMakeFiles/test_point.dir
+/workspaces/lab6-hamzaSajjad123/src/tests/CMakeFiles/test_line.dir
+/workspaces/lab6-hamzaSajjad123/src/tests/CMakeFiles/test_triangle.dir
+/workspaces/lab6-hamzaSajjad123/src/tests/CMakeFiles/test.dir
+/workspaces/lab6-hamzaSajjad123/src/tests/CMakeFiles/edit_cache.dir
+/workspaces/lab6-hamzaSajjad123/src/tests/CMakeFiles/rebuild_cache.dir

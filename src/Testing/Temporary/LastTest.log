@@ -1,0 +1,57 @@
+Start testing: Nov 18 15:08 UTC
+----------------------------------------------------------
+1/3 Testing: test_point
+1/3 Test: test_point
+Command: "/workspaces/lab6-hamzaSajjad123/src/tests/test_point"
+Directory: /workspaces/lab6-hamzaSajjad123/src/tests
+"test_point" start time: Nov 18 15:08 UTC
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (5 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_point" end time: Nov 18 15:08 UTC
+"test_point" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: test_line
+2/3 Test: test_line
+Command: "/workspaces/lab6-hamzaSajjad123/src/tests/test_line"
+Directory: /workspaces/lab6-hamzaSajjad123/src/tests
+"test_line" start time: Nov 18 15:08 UTC
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_line" end time: Nov 18 15:08 UTC
+"test_line" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: test_triangle
+3/3 Test: test_triangle
+Command: "/workspaces/lab6-hamzaSajjad123/src/tests/test_triangle"
+Directory: /workspaces/lab6-hamzaSajjad123/src/tests
+"test_triangle" start time: Nov 18 15:08 UTC
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (2 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_triangle" end time: Nov 18 15:08 UTC
+"test_triangle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 18 15:08 UTC
